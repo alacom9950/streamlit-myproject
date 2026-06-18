@@ -1,0 +1,10 @@
+[theme]
+# 노란색(앰버/골드)을 메인 컬러로 한 세련된 라이트 테마
+primaryColor = "#F5B400"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FFF9ED"
+textColor = "#1F2328"
+linkColor = "#B07A00"
+font = "sans serif"
+baseRadius = "large"
+borderColor = "#EFE3C8"
